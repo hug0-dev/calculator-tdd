@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { "test": "NODE_OPTIONS=--experimental-vm-modules jest", "test:watch": "NODE_OPTIONS=--experimental-vm-modules jest --watch" }, 
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
